@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #6d6a6a;
+    box-sizing: border-box;
+}
+
+.Main-Box{
+    padding: 20px;
+    background-color: #6d6a6a;
+}
+
+.post {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid hsl(0, 1%, 32%);
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 8px #fafafa, 10px 10px 8px rgb(155, 153, 153), 15px 15px 8px #363636;
+    /* color: white; */
+}
+
+.comment {
+    margin-top: 10px;
+    padding: 5px;
+    background-color:black;
+    border-left: 3px solid #ccc;
+    display: none;
+    border-radius: 5px;
+    color:White;
+}
+.hideBtn{
+  background-color: black;
+  color: white;
+  font-weight: 600px;
+  border-radius: 5px;
+  padding: 5px;
+  margin-left: 20px;
+
+ 
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    font-weight: 600px;
+    border-radius: 5px;
+    padding: 5px; 
+    margin-left: 20px;
+}
